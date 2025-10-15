@@ -33,8 +33,9 @@ Analyses expect preprocessed EEG arranged by subject, day, and stimulation type.
 ## Citation
 If you use this code, please cite the accompanying paper and dataset:
 
-## DOIs
-- Dataset DOI: TBD
-- Paper DOI: TBD
 
+## DOIs
+- Paper: EEG Entrainment under Dynamic Light Stimulation Reveals Phase-Locking Patterns Across Brain Regions
+PLOS ONE, 2025, https://doi.org/10.1371/journal.pone.0332310
+- Dataset: Zenodo, https://doi.org/10.5281/zenodo.17019688
 
