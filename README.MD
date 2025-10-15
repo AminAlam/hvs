@@ -1,6 +1,7 @@
 ## EEG Analysis: Phase-Locking Value and Spectral Methods
 
-This repository contains MATLAB code for analyzing EEG entrainment for the following paper: **Exploring neural entrainment and synchrony in response to repeated 60 Hz flickering white light in healthy volunteers**
+This repository contains MATLAB code for analyzing EEG entrainment for the following paper: **Exploring neural entrainment and synchrony in response to repeated 60 Hz flickering white light in healthy volunteers**.
+
 The analyses focus on phase-locking value (PLV) between channels, frequency-domain measures (FFT/STFT), and regional network metrics across multiple days and groups (control vs active).
 
 ### Highlights
